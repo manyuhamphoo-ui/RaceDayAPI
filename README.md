@@ -28,3 +28,7 @@ RaceDayAPI is an ASP.NET Core Web API developed for managing race events.
 - BCrypt Password Hashing
 - Swagger
 - xUnit
+
+## Swagger Screenshot
+
+![Swagger](Screenshots/Swagger.png)
